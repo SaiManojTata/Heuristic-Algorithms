@@ -2,6 +2,8 @@
 
 AI2101 - Convex Optimization, course work project for grades evaluation (Group Project)
 
+> Open the **Report.pdf** to know about our project study
+
 In a list of different project topics given, one amongst them is Heuristic Optimization Algorithms.
 Given a non-convex problem, try solving the problems with near approximation using Heuristic Methods.
 
