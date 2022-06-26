@@ -1,13 +1,15 @@
 # Heuristic Optimization Algorithms
 
-AI2101 - Convex Optimization, course work project for grades evaluation (Group Project)
+Final Project for the course **AI2101 - Convex Optimization** under Prof. Aditya Siripuram
 
-> Open the **Report.pdf** to know about our project study
+> **Report.pdf** contains the report for our project
 
 In a list of different project topics given, one amongst them is Heuristic Optimization Algorithms.
-Given a non-convex problem, try solving the problems with near approximation using Heuristic Methods.
 
-Task was to work on any three such heuristic algorithmic problems.
+In convex optimization, we have methods to find the exact minima because the problem can be proved to be convex. <br>
+However, when it is non-convex, we use heuristics to find a near-optimal solution. 
+
+The project was to study three different heuristics. 
 
 ---
 ### Abstract
